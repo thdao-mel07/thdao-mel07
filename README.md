@@ -75,10 +75,10 @@
   <a href="mailto:dothanhdao375772@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23FF4C4C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7F50" alt="Gmail"/>
   </a>
-  <a href="https://www.facebook.com/ThanhDao2604/">
+  <a href="https://www.facebook.com/ThanhDaoMel07">
     <img src="https://img.shields.io/badge/Facebook-%233B5998?style=for-the-badge&logo=facebook&logoColor=white&labelColor=00C6FF" alt="Facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/đào-đỗ-thanh-051610357">
+  <a href="https://www.linkedin.com/in/thanhdao-mel07">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7F00FF" alt="LinkedIn"/>
   </a>
 </p>
