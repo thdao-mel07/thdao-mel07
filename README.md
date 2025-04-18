@@ -64,17 +64,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dothanhdao&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothanhdao&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peach2003&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&border_radius=10&card_width=400" alt="My Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach2003&layout=compact&theme=radical&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peach2003&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="mailto:dothanhdao375772@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-  <a href="https://www.facebook.com/ThanhDao2604/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/đào-đỗ-thanh-051610357"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Gmail-%23FF4C4C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF7F50" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/ThanhDao2604/">
+    <img src="https://img.shields.io/badge/Facebook-%233B5998?style=for-the-badge&logo=facebook&logoColor=white&labelColor=00C6FF" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/đào-đỗ-thanh-051610357">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7F00FF" alt="LinkedIn"/>
+  </a>
 </p>
+
+
