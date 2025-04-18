@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peach2003&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&border_radius=10&card_width=400" alt="My Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach2003&layout=compact&theme=radical&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peach2003&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peach2003&theme=tokyonight&border_radius=10" />
 </p>
 ---
 
