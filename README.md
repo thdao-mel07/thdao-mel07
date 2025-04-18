@@ -64,9 +64,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thdao-mel07&show_icons=true&count_private=true&hide_title=true&theme=radical&hide=prs&border_radius=10&card_width=400" alt="My Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thdao-mel07&theme=tokyonight&border_radius=10" alt="GitHub Streak"  height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdao-mel07&layout=compact&theme=radical&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thdao-mel07&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+   
 </p>
 ---
 
