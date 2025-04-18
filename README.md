@@ -9,6 +9,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder" width="400"/>
 
 </p>
+
 ---
 
 ### 🚀 About Me
@@ -61,13 +62,18 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thdao-mel07&theme=tokyonight&border_radius=10" alt="GitHub Streak"  height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdao-mel07&layout=compact&theme=radical&border_radius=10&card_width=400" alt="Top Languages" height="180"/>
-   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thdao-mel07&theme=tokyonight&border_radius=10" alt="GitHub Streak"  height="180"/> 
 </p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdao-mel07&layout=compact&theme=radical&border_radius=10&card_width=400" alt="Top Languages" height="180"/>  
+</p>
+
 ---
 
 ### 🌐 Connect with Me
